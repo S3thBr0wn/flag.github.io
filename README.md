@@ -45,4 +45,4 @@
 
 <p> <body style="background-color:black;"><br>
   Question:
-  What king lived in England and killed his wives because they couldn't give him a son
+  What king lived in England and killed his wives because they couldn't give him a son?
